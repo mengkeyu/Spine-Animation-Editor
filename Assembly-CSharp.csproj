@@ -69,6 +69,7 @@
     <Compile Include="Assets/Scripts/AnimInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets/SpineAnimations/大鱼切割输出(2)/qiegeji_da.atlas.txt" />
     <None Include="Assets/SpineAnimations/(示例spine)/luoxuanji.atlas.txt" />
   </ItemGroup>
   <ItemGroup>

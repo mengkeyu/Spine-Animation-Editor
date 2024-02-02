@@ -5,10 +5,12 @@ using UnityEngine.UI;
 
 public class UIManager : MonoBehaviour
 {
-    public SpineAnimationControl spineAnimationControl;
+    [HideInInspector]public SpineAnimationControl spineAnimationControl;
+    [HideInInspector]public Camera mainCamera;
+    [HideInInspector]public GameObject infoPanel;
 
-    public Slider speedSlider;
-    public GameObject infoPanel;
+    [Header("播放速度滑动器")]public Slider speedSlider;
+    [Header("镜头大小滑动器")]public Slider cameraSlider;
 
     private int num;
 
@@ -20,6 +22,7 @@ public class UIManager : MonoBehaviour
     private void Update() 
     {
         ChangePlaySpeed();
+        ChangeCameraSize();
     }
 
     public void OnPauseButtonClick()
@@ -49,7 +52,13 @@ public class UIManager : MonoBehaviour
     private void ChangePlaySpeed()
     {
         spineAnimationControl.skeletonAnimation.state.TimeScale = speedSlider.value + 1.0f;
-        speedSlider.GetComponentInChildren<Text>().text = string.Format("倍速：{0}",speedSlider.value + 1.0f);
+        speedSlider.GetComponentInChildren<Text>().text = string.Format("倍速x{0}",Mathf.RoundToInt(speedSlider.value + 1.0f));
+    }
+
+    private void ChangeCameraSize()
+    {
+        mainCamera.orthographicSize = (cameraSlider.value * -1) + 12;
+        cameraSlider.GetComponentInChildren<Text>().text = string.Format("缩放x{0}",Mathf.RoundToInt(cameraSlider.value));
     }
 
     public void OnInfoButtonClick()
