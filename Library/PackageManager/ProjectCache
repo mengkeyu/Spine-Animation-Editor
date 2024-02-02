@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638422810890000000
-    m_Hash: 2371964185
+      ticks: 638424612280000000
+    m_Hash: 1017519423
   m_LockFileStatus:
     m_FilePath: /Users/eyewind/Desktop/Spine-Animation-Editor/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638422810930000000
-    m_Hash: 3769182969
+      ticks: 638424612280000000
+    m_Hash: 2338017959
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -468,6 +468,117 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+- packageId: com.unity.recorder@4.0.2
+  testable: 0
+  isDirectDependency: 1
+  version: 4.0.2
+  source: 1
+  resolvedPath: /Users/eyewind/Desktop/Spine-Animation-Editor/Library/PackageCache/com.unity.recorder@4.0.2
+  assetPath: Packages/com.unity.recorder
+  name: com.unity.recorder
+  displayName: Recorder
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: 
+  description: 'The Recorder allows you to capture and save data from the Unity Editor
+    during Play mode: animations, videos, images, audio, arbitrary output variables
+    (AOVs), and more.'
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 2.0.0-preview.6
+    - 2.0.1-preview.1
+    - 2.0.2-preview.3
+    - 2.0.3-preview.1
+    - 2.1.0-preview.1
+    - 2.2.0-preview.4
+    - 2.3.0-preview.3
+    - 2.4.0-preview.1
+    - 2.5.0-pre.1
+    - 2.5.2
+    - 2.5.4
+    - 2.5.5
+    - 2.5.7
+    - 2.6.0-exp.3
+    - 2.6.0-exp.4
+    - 3.0.0-pre.1
+    - 3.0.0-pre.2
+    - 3.0.0
+    - 3.0.1
+    - 3.0.2
+    - 3.0.3
+    - 4.0.0-pre.1
+    - 4.0.0-pre.2
+    - 4.0.0-pre.3
+    - 4.0.0-pre.4
+    - 4.0.0-pre.5
+    - 4.0.0
+    - 4.0.1
+    - 4.0.2
+    - 5.0.0-pre.1
+    - 5.0.0
+    - 5.1.0-pre.1
+    compatible:
+    - 4.0.2
+    recommended: 4.0.2
+    deprecated: []
+  dependencies:
+  - name: com.unity.timeline
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.timeline
+    version: 1.7.6
+  - name: com.unity.modules.director
+    version: 1.0.0
+  - name: com.unity.modules.audio
+    version: 1.0.0
+  - name: com.unity.modules.animation
+    version: 1.0.0
+  - name: com.unity.modules.particlesystem
+    version: 1.0.0
+  keywords:
+  - unity
+  - recorder
+  - recording
+  - capture
+  - video
+  - animation
+  - clip
+  - images
+  - AOV
+  - render
+  - pass
+  - layer
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.cn
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 638351473610000000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.recorder@4.0/manual/index.html
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/com.unity.recorder.git
+    revision: c86a3d9e57541ce2ccff8ece1fd8f140bbe5e772
+    path: 
+  unityLifecycle:
+    version: 4.0.2
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
 - packageId: com.unity.test-framework@1.1.33
   testable: 0
   isDirectDependency: 1
@@ -601,12 +712,12 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
-- packageId: com.unity.textmeshpro@3.0.6
+- packageId: com.unity.textmeshpro@3.0.7
   testable: 0
   isDirectDependency: 1
-  version: 3.0.6
+  version: 3.0.7
   source: 1
-  resolvedPath: /Users/eyewind/Desktop/Spine-Animation-Editor/Library/PackageCache/com.unity.textmeshpro@3.0.6
+  resolvedPath: /Users/eyewind/Desktop/Spine-Animation-Editor/Library/PackageCache/com.unity.textmeshpro@3.0.7
   assetPath: Packages/com.unity.textmeshpro
   name: com.unity.textmeshpro
   displayName: TextMeshPro
@@ -770,13 +881,13 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637547111200000000
-  documentationUrl: 
+  datePublishedTicks: 638410382150000000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.textmeshpro@3.0/manual/index.html
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.textmeshpro.git
-    revision: 01e57e3b7de18af9dfe9baaa0a0ff5cc4765c899
+    revision: 5c364f204e10eaec84fcbff640ad4d833774c1ed
     path: 
   unityLifecycle:
     version: 3.0.6
