@@ -1,0 +1,125 @@
+
+YCH_beileiyunshu.png
+size: 813,156
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blysjl_st01
+  rotate: true
+  xy: 619, 56
+  size: 98, 100
+  orig: 99, 100
+  offset: 1, 0
+  index: -1
+blysjl_st02
+  rotate: true
+  xy: 340, 42
+  size: 112, 155
+  orig: 113, 155
+  offset: 1, 0
+  index: -1
+blysjl_tou
+  rotate: false
+  xy: 2, 5
+  size: 175, 149
+  orig: 177, 151
+  offset: 1, 1
+  index: -1
+blysjl_yj01
+  rotate: true
+  xy: 677, 6
+  size: 48, 32
+  orig: 50, 34
+  offset: 1, 1
+  index: -1
+blysjl_zj01
+  rotate: true
+  xy: 677, 6
+  size: 48, 32
+  orig: 50, 34
+  offset: 1, 1
+  index: -1
+blysjl_ys02
+  rotate: true
+  xy: 340, 2
+  size: 38, 68
+  orig: 41, 70
+  offset: 2, 1
+  index: -1
+blysjl_ys03
+  rotate: true
+  xy: 589, 6
+  size: 48, 86
+  orig: 50, 88
+  offset: 1, 1
+  index: -1
+blysjl_zj02
+  rotate: false
+  xy: 721, 54
+  size: 47, 100
+  orig: 49, 102
+  offset: 1, 1
+  index: -1
+blysjll_yj02
+  rotate: false
+  xy: 721, 54
+  size: 47, 100
+  orig: 49, 102
+  offset: 1, 1
+  index: -1
+blysjl_zj03
+  rotate: false
+  xy: 770, 58
+  size: 41, 96
+  orig: 43, 98
+  offset: 1, 1
+  index: -1
+blysjll_yj03
+  rotate: false
+  xy: 770, 58
+  size: 41, 96
+  orig: 43, 98
+  offset: 1, 1
+  index: -1
+blysjl_zs01
+  rotate: false
+  xy: 750, 16
+  size: 31, 36
+  orig: 33, 39
+  offset: 1, 1
+  index: -1
+blysjl_zs03
+  rotate: true
+  xy: 497, 22
+  size: 47, 90
+  orig: 49, 92
+  offset: 1, 1
+  index: -1
+blysjll_ys01
+  rotate: false
+  xy: 711, 14
+  size: 37, 38
+  orig: 39, 41
+  offset: 1, 1
+  index: -1
+blysjll_zs02
+  rotate: true
+  xy: 410, 2
+  size: 38, 65
+  orig: 40, 67
+  offset: 1, 1
+  index: -1
+laba
+  rotate: false
+  xy: 179, 6
+  size: 159, 148
+  orig: 159, 148
+  offset: 0, 0
+  index: -1
+yin
+  rotate: true
+  xy: 497, 71
+  size: 83, 120
+  orig: 83, 120
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,132 @@
+
+YCH_dayuyangzhi.png
+size: 612,281
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dyyzjl_st01
+  rotate: true
+  xy: 257, 3
+  size: 115, 155
+  orig: 116, 155
+  offset: 1, 0
+  index: -1
+dyyzjl_st02
+  rotate: false
+  xy: 124, 16
+  size: 91, 69
+  orig: 93, 72
+  offset: 1, 2
+  index: -1
+dyyzjl_tou
+  rotate: true
+  xy: 330, 125
+  size: 154, 144
+  orig: 156, 146
+  offset: 1, 1
+  index: -1
+dyyzjl_toufa
+  rotate: false
+  xy: 2, 87
+  size: 176, 192
+  orig: 176, 193
+  offset: 0, 1
+  index: -1
+dyyzjl_yj01
+  rotate: false
+  xy: 464, 22
+  size: 48, 101
+  orig: 50, 104
+  offset: 1, 2
+  index: -1
+dyyzjl_yj02
+  rotate: true
+  xy: 476, 224
+  size: 55, 86
+  orig: 57, 88
+  offset: 1, 1
+  index: -1
+dyyzjl_yj03
+  rotate: true
+  xy: 564, 213
+  size: 66, 46
+  orig: 68, 48
+  offset: 1, 1
+  index: -1
+dyyzjl_ys01
+  rotate: true
+  xy: 514, 77
+  size: 48, 90
+  orig: 50, 92
+  offset: 1, 1
+  index: -1
+dyyzjl_ys02
+  rotate: true
+  xy: 525, 157
+  size: 31, 35
+  orig: 33, 37
+  offset: 1, 1
+  index: -1
+dyyzjl_ys03
+  rotate: true
+  xy: 180, 90
+  size: 28, 75
+  orig: 30, 77
+  offset: 1, 1
+  index: -1
+dyyzjl_zj01
+  rotate: false
+  xy: 414, 20
+  size: 48, 103
+  orig: 50, 106
+  offset: 1, 2
+  index: -1
+dyyzjl_zj02
+  rotate: true
+  xy: 564, 145
+  size: 66, 46
+  orig: 68, 48
+  offset: 1, 1
+  index: -1
+dyyzjl_zj03
+  rotate: false
+  xy: 476, 127
+  size: 47, 95
+  orig: 53, 97
+  offset: 1, 1
+  index: -1
+dyyzjl_zs01
+  rotate: true
+  xy: 514, 29
+  size: 46, 89
+  orig: 48, 91
+  offset: 1, 1
+  index: -1
+dyyzjl_zs02
+  rotate: true
+  xy: 525, 190
+  size: 32, 37
+  orig: 34, 39
+  offset: 1, 1
+  index: -1
+dyyzjl_zs03
+  rotate: false
+  xy: 217, 16
+  size: 34, 72
+  orig: 36, 74
+  offset: 1, 1
+  index: -1
+laba
+  rotate: true
+  xy: 180, 120
+  size: 159, 148
+  orig: 159, 148
+  offset: 0, 0
+  index: -1
+yin
+  rotate: true
+  xy: 2, 2
+  size: 83, 120
+  orig: 83, 120
+  offset: 0, 0
+  index: -1

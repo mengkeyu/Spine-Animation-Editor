@@ -1528,20 +1528,8 @@ MonoBehaviour:
   slider: {fileID: 623985047}
   playButton: {fileID: 1749498633}
   pauseButton: {fileID: 952399879}
-  animInfo:
-  - AnimationName: idle_lv1
-    isAnimLoop: 0
-    animLoopTime: 0
-  - AnimationName: lv1_a
-    isAnimLoop: 0
-    animLoopTime: 0
-  - AnimationName: lv1_b
-    isAnimLoop: 1
-    animLoopTime: 30
-  - AnimationName: lv1_c
-    isAnimLoop: 0
-    animLoopTime: 0
-  skeletonDataAsset: {fileID: 11400000, guid: 3a1b33bd9b0584579ad33e02497dae25, type: 2}
+  animInfo: []
+  skeletonDataAsset: {fileID: 0}
 --- !u!4 &1193805283
 Transform:
   m_ObjectHideFlags: 0
@@ -2890,7 +2878,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 3a1b33bd9b0584579ad33e02497dae25, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 561797068550a4db5aa07e09a4e2a264, type: 2}
   initialSkinName: 1
   initialFlipX: 0
   initialFlipY: 0
@@ -2935,7 +2923,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: a61a94440e28b4e4a8ccd7e6f9466d2c, type: 2}
+  - {fileID: 2100000, guid: 4aa429449c1b048458e056e2ce8cd96e, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0

@@ -1,0 +1,125 @@
+
+YCH_xiaxieyunshu.png
+size: 353,546
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+laba
+  rotate: false
+  xy: 192, 396
+  size: 159, 148
+  orig: 159, 148
+  offset: 0, 0
+  index: -1
+xxysjl_st01
+  rotate: false
+  xy: 2, 201
+  size: 158, 178
+  orig: 159, 178
+  offset: 0, 0
+  index: -1
+xxysjl_st02
+  rotate: true
+  xy: 247, 277
+  size: 117, 82
+  orig: 119, 84
+  offset: 1, 1
+  index: -1
+xxysjl_tou
+  rotate: false
+  xy: 2, 381
+  size: 188, 163
+  orig: 191, 168
+  offset: 1, 1
+  index: -1
+xxysjl_yj01
+  rotate: false
+  xy: 247, 211
+  size: 92, 64
+  orig: 94, 66
+  offset: 1, 1
+  index: -1
+xxysjl_yj02
+  rotate: true
+  xy: 90, 2
+  size: 69, 74
+  orig: 71, 76
+  offset: 1, 1
+  index: -1
+xxysjl_yj03
+  rotate: false
+  xy: 167, 168
+  size: 72, 89
+  orig: 74, 91
+  offset: 1, 1
+  index: -1
+xxysjl_ys01
+  rotate: false
+  xy: 242, 36
+  size: 52, 47
+  orig: 54, 50
+  offset: 1, 1
+  index: -1
+xxysjl_ys02
+  rotate: true
+  xy: 241, 151
+  size: 58, 92
+  orig: 60, 94
+  offset: 1, 1
+  index: -1
+xxysjl_ys03
+  rotate: false
+  xy: 2, 66
+  size: 86, 133
+  orig: 88, 135
+  offset: 1, 1
+  index: -1
+xxysjl_zj01
+  rotate: false
+  xy: 233, 85
+  size: 92, 64
+  orig: 94, 66
+  offset: 1, 1
+  index: -1
+xxysjl_zj02
+  rotate: true
+  xy: 166, 2
+  size: 65, 74
+  orig: 67, 76
+  offset: 1, 1
+  index: -1
+xxysjl_zj03
+  rotate: false
+  xy: 167, 69
+  size: 64, 97
+  orig: 66, 99
+  offset: 1, 1
+  index: -1
+xxysjl_zs01
+  rotate: false
+  xy: 296, 33
+  size: 46, 50
+  orig: 48, 52
+  offset: 1, 1
+  index: -1
+xxysjl_zs02
+  rotate: true
+  xy: 2, 15
+  size: 49, 75
+  orig: 51, 78
+  offset: 1, 1
+  index: -1
+xxysjl_zs03
+  rotate: false
+  xy: 90, 73
+  size: 75, 126
+  orig: 77, 128
+  offset: 1, 1
+  index: -1
+yin
+  rotate: false
+  xy: 162, 259
+  size: 83, 120
+  orig: 83, 120
+  offset: 0, 0
+  index: -1

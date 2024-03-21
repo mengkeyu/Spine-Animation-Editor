@@ -1,0 +1,104 @@
+
+YCH_xiaxiejiagong.png
+size: 441,567
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+laba
+  rotate: false
+  xy: 260, 269
+  size: 159, 148
+  orig: 159, 148
+  offset: 0, 0
+  index: -1
+xxjgjl_st01
+  rotate: true
+  xy: 2, 342
+  size: 223, 256
+  orig: 223, 256
+  offset: 0, 0
+  index: -1
+xxjgjl_tou
+  rotate: false
+  xy: 260, 419
+  size: 179, 146
+  orig: 181, 148
+  offset: 1, 1
+  index: -1
+xxjgjl_yj01
+  rotate: true
+  xy: 2, 219
+  size: 121, 125
+  orig: 123, 125
+  offset: 2, 0
+  index: -1
+xxjgjl_yj02
+  rotate: true
+  xy: 255, 164
+  size: 103, 123
+  orig: 105, 125
+  offset: 1, 1
+  index: -1
+xxjgjl_ys01
+  rotate: false
+  xy: 2, 6
+  size: 91, 114
+  orig: 93, 116
+  offset: 1, 1
+  index: -1
+xxjgjl_ys02
+  rotate: false
+  xy: 193, 27
+  size: 84, 93
+  orig: 86, 95
+  offset: 1, 1
+  index: -1
+xxjgjl_ys03
+  rotate: true
+  xy: 279, 80
+  size: 82, 76
+  orig: 84, 78
+  offset: 1, 1
+  index: -1
+xxjgjl_zj01
+  rotate: true
+  xy: 129, 224
+  size: 116, 124
+  orig: 116, 126
+  offset: 0, 2
+  index: -1
+xxjgjl_zj02
+  rotate: true
+  xy: 129, 122
+  size: 100, 123
+  orig: 102, 125
+  offset: 1, 1
+  index: -1
+xxjgjl_zs01
+  rotate: false
+  xy: 95, 14
+  size: 96, 106
+  orig: 98, 109
+  offset: 1, 2
+  index: -1
+xxjgjl_zs02
+  rotate: true
+  xy: 279, 2
+  size: 76, 78
+  orig: 78, 80
+  offset: 1, 1
+  index: -1
+xxjgjl_zs03
+  rotate: false
+  xy: 357, 82
+  size: 80, 80
+  orig: 82, 82
+  offset: 1, 1
+  index: -1
+yin
+  rotate: true
+  xy: 2, 134
+  size: 83, 120
+  orig: 83, 120
+  offset: 0, 0
+  index: -1

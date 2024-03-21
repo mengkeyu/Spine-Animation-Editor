@@ -1,0 +1,132 @@
+
+YCH_dayumatou.png
+size: 296,538
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dymtjl_st01
+  rotate: false
+  xy: 173, 389
+  size: 116, 147
+  orig: 118, 149
+  offset: 1, 1
+  index: -1
+dymtjl_st02
+  rotate: false
+  xy: 163, 195
+  size: 99, 107
+  orig: 99, 107
+  offset: 0, 0
+  index: -1
+dymtjl_tou
+  rotate: false
+  xy: 2, 39
+  size: 143, 152
+  orig: 146, 154
+  offset: 1, 1
+  index: -1
+dymtjl_toufa
+  rotate: false
+  xy: 2, 343
+  size: 169, 193
+  orig: 169, 193
+  offset: 0, 0
+  index: -1
+dymtjl_yj01
+  rotate: true
+  xy: 248, 125
+  size: 68, 43
+  orig: 70, 45
+  offset: 1, 1
+  index: -1
+dymtjl_zj01
+  rotate: true
+  xy: 248, 125
+  size: 68, 43
+  orig: 70, 45
+  offset: 1, 1
+  index: -1
+dymtjl_yj02
+  rotate: false
+  xy: 147, 91
+  size: 42, 100
+  orig: 44, 103
+  offset: 1, 1
+  index: -1
+dymtjl_zj02
+  rotate: false
+  xy: 147, 91
+  size: 42, 100
+  orig: 44, 103
+  offset: 1, 1
+  index: -1
+dymtjl_yj03
+  rotate: false
+  xy: 198, 3
+  size: 42, 96
+  orig: 44, 98
+  offset: 1, 1
+  index: -1
+dymtjl_zj03
+  rotate: false
+  xy: 198, 3
+  size: 42, 96
+  orig: 44, 98
+  offset: 1, 1
+  index: -1
+dymtjl_ys01
+  rotate: true
+  xy: 70, 5
+  size: 32, 36
+  orig: 34, 38
+  offset: 1, 1
+  index: -1
+dymtjl_ys02
+  rotate: false
+  xy: 264, 236
+  size: 30, 66
+  orig: 33, 68
+  offset: 2, 1
+  index: -1
+dymtjl_ys03
+  rotate: false
+  xy: 147, 2
+  size: 49, 87
+  orig: 51, 89
+  offset: 1, 1
+  index: -1
+dymtjl_zs01
+  rotate: true
+  xy: 108, 6
+  size: 31, 37
+  orig: 33, 39
+  offset: 1, 1
+  index: -1
+dymtjl_zs02
+  rotate: true
+  xy: 2, 5
+  size: 32, 66
+  orig: 35, 68
+  offset: 1, 1
+  index: -1
+dymtjl_zs03
+  rotate: false
+  xy: 191, 101
+  size: 55, 92
+  orig: 57, 94
+  offset: 1, 1
+  index: -1
+laba
+  rotate: false
+  xy: 2, 193
+  size: 159, 148
+  orig: 159, 148
+  offset: 0, 0
+  index: -1
+yin
+  rotate: true
+  xy: 173, 304
+  size: 83, 120
+  orig: 83, 120
+  offset: 0, 0
+  index: -1

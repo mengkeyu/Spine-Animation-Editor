@@ -59,7 +59,7 @@
     <UnityVersion>2022.3.16f1c1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Analyzer Include="/Users/eyewind/.vscode/extensions/visualstudiotoolsforunity.vstuc-0.9.4/Analyzers/Microsoft.Unity.Analyzers.dll" />
+    <Analyzer Include="/Users/eyewind/.vscode/extensions/visualstudiotoolsforunity.vstuc-1.0.0/Analyzers/Microsoft.Unity.Analyzers.dll" />
     <Analyzer Include="/Applications/Unity/Hub/Editor/2022.3.16f1c1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll" />
     <Analyzer Include="/Applications/Unity/Hub/Editor/2022.3.16f1c1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
@@ -70,8 +70,55 @@
     <Compile Include="Assets/Scripts/AnimInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Assets/SpineAnimations/大鱼切割输出(2)/qiegeji_da.atlas.txt" />
-    <None Include="Assets/SpineAnimations/(示例spine)/luoxuanji.atlas.txt" />
+    <None Include="Assets/SpineAnimations/矿场经理/矿场经理_熊猫/KCH_xiongmao.atlas.txt" />
+    <None Include="Assets/SpineAnimations/矿场经理/压铁管理/KCH_yatie.atlas.txt" />
+    <None Include="Assets/SpineAnimations/渔场经理/大鱼码头经理/YCH_dayumatou.atlas.txt" />
+    <None Include="Assets/SpineAnimations/渔场经理/大鱼运输经理/YCH_dayuyunshu.atlas.txt" />
+    <None Include="Assets/SpineAnimations/渔场经理/大鱼加工经理/YCH_dayujiagong.atlas.txt" />
+    <None Include="Assets/SpineAnimations/伐木经理/木楔3导出/CH_admin_muxie3.atlas.txt" />
+    <None Include="Assets/SpineAnimations/伐木经理/竖切3导出/CH_admin_Scut3.atlas.txt" />
+    <None Include="Assets/SpineAnimations/渔场经理/虾蟹码头经理/YCH_xiaxiematou.atlas.txt" />
+    <None Include="Assets/SpineAnimations/伐木经理/横切3导出/CH_admin_Hcut3.atlas.txt" />
+    <None Include="Assets/SpineAnimations/伐木经理/运输管理_鹤导出/CH_he_carry.atlas.txt" />
+    <None Include="Assets/SpineAnimations/矿场经理/矿场经理_羊驼/KCH_yangtuo.atlas.txt" />
+    <None Include="Assets/SpineAnimations/伐木经理/剥皮2导出/CH_admin_bopi2.atlas.txt" />
+    <None Include="Assets/SpineAnimations/渔场经理/贝类加工经理/YCH_beileijiagong.atlas.txt" />
+    <None Include="Assets/SpineAnimations/伐木经理/剥皮4导出/CH_admin_bopi4.atlas.txt" />
+    <None Include="Assets/SpineAnimations/伐木经理/木楔1导出/CH_admin_muxie.atlas.txt" />
+    <None Include="Assets/SpineAnimations/渔场经理/虾蟹加工经理/YCH_xiaxiejiagong.atlas.txt" />
+    <None Include="Assets/SpineAnimations/伐木经理/木楔2导出/CH_admin_muxie2.atlas.txt" />
+    <None Include="Assets/SpineAnimations/伐木经理/运输管理_长颈鹿导出/CH_giraffe_carry.atlas.txt" />
+    <None Include="Assets/SpineAnimations/渔场经理/小鱼养殖经理/YCH_xiaoyuyangzhi.atlas.txt" />
+    <None Include="Assets/SpineAnimations/矿场经理/矿场经理_兔子/KCH_rabbit.atlas.txt" />
+    <None Include="Assets/SpineAnimations/矿场经理/压银管理/KCH_yayin.atlas.txt" />
+    <None Include="Assets/SpineAnimations/矿场经理/矿场经理_猫头鹰/KCH_owl.atlas.txt" />
+    <None Include="Assets/SpineAnimations/矿场经理/压铜管理/KCH_yatong.atlas.txt" />
+    <None Include="Assets/SpineAnimations/渔场经理/贝类码头经理/YCH_beileimatou.atlas.txt" />
+    <None Include="Assets/SpineAnimations/伐木经理/运输管理_狗导出/CH_dog_carry.atlas.txt" />
+    <None Include="Assets/SpineAnimations/矿场经理/矿场经理_鼠/KCH_mouse.atlas.txt" />
+    <None Include="Assets/SpineAnimations/渔场经理/小鱼运输经理/YCH_dayujiagong.atlas.txt" />
+    <None Include="Assets/SpineAnimations/伐木经理/剥皮5导出/CH_admin_bopi5.atlas.txt" />
+    <None Include="Assets/SpineAnimations/伐木经理/横切1导出/CH_admin_Hcut.atlas.txt" />
+    <None Include="Assets/SpineAnimations/伐木经理/剥皮1导出/CH_admin_bopi.atlas.txt" />
+    <None Include="Assets/SpineAnimations/渔场经理/大鱼养殖经理/YCH_dayuyangzhi.atlas.txt" />
+    <None Include="Assets/SpineAnimations/伐木经理/种植管理_猫头鹰导出/CH_owl_plant.atlas.txt" />
+    <None Include="Assets/SpineAnimations/矿场经理/矿场经理_牛/KCH_niu.atlas.txt" />
+    <None Include="Assets/SpineAnimations/渔场经理/小鱼加工经理/YCH_xiaoyujiagong.atlas.txt" />
+    <None Include="Assets/SpineAnimations/伐木经理/运输管理_蛙导出/CH_frog_carry.atlas.txt" />
+    <None Include="Assets/SpineAnimations/渔场经理/虾蟹养殖经理/YCH_xiaxieyangzhi.atlas.txt" />
+    <None Include="Assets/SpineAnimations/渔场经理/虾蟹运输经理/YCH_xiaxieyunshu.atlas.txt" />
+    <None Include="Assets/SpineAnimations/伐木经理/运输管理_猴导出/CH_monkey_carry.atlas.txt" />
+    <None Include="Assets/SpineAnimations/矿场经理/矿场经理_鸭子/KCH_yazi.atlas.txt" />
+    <None Include="Assets/SpineAnimations/渔场经理/小鱼码头经理/YCH_xiaoyumatou.atlas.txt" />
+    <None Include="Assets/SpineAnimations/矿场经理/矿场经理_天鹅/KCH_swan.atlas.txt" />
+    <None Include="Assets/SpineAnimations/伐木经理/竖切1导出/CH_admin_Scut.atlas.txt" />
+    <None Include="Assets/SpineAnimations/伐木经理/竖切2导出/CH_admin_Scut2.atlas.txt" />
+    <None Include="Assets/SpineAnimations/渔场经理/贝类运输经理/YCH_beileiyunshu.atlas.txt" />
+    <None Include="Assets/SpineAnimations/矿场经理/矿场经理_猪/KCH_zhu.atlas.txt" />
+    <None Include="Assets/SpineAnimations/伐木经理/横切2导出/CH_admin_Hcut2.atlas.txt" />
+    <None Include="Assets/SpineAnimations/伐木经理/剥皮3导出/CH_admin_bopi3.atlas.txt" />
+    <None Include="Assets/SpineAnimations/伐木经理/砍伐管理_鲨鱼导出/CH_shark_kanfa.atlas.txt" />
+    <None Include="Assets/SpineAnimations/渔场经理/贝类养殖经理/YCH_beileiyangzhi.atlas.txt" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
@@ -958,12 +1005,12 @@
       <HintPath>Library/ScriptAssemblies/Unity.VisualScripting.Shared.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Unity.VisualStudio.Editor">
-      <HintPath>Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
     <Reference Include="Unity.Recorder.Base">
       <HintPath>Library/ScriptAssemblies/Unity.Recorder.Base.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.VisualStudio.Editor">
+      <HintPath>Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="UnityEditor.UI">
@@ -1082,12 +1129,12 @@
       <HintPath>Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Unity.2D.Aseprite.Editor">
-      <HintPath>Library/ScriptAssemblies/Unity.2D.Aseprite.Editor.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
     <Reference Include="Unity.Recorder">
       <HintPath>Library/ScriptAssemblies/Unity.Recorder.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.2D.Aseprite.Editor">
+      <HintPath>Library/ScriptAssemblies/Unity.2D.Aseprite.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.VisualScripting.State">

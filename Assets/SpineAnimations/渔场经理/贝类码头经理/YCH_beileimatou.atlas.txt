@@ -1,0 +1,132 @@
+
+YCH_beileimatou.png
+size: 811,286
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blmtjl_st01
+  rotate: true
+  xy: 2, 74
+  size: 210, 132
+  orig: 210, 133
+  offset: 0, 1
+  index: -1
+blmtjl_st02
+  rotate: true
+  xy: 136, 82
+  size: 202, 175
+  orig: 202, 175
+  offset: 0, 0
+  index: -1
+blmtjl_st03
+  rotate: true
+  xy: 484, 120
+  size: 164, 100
+  orig: 164, 100
+  offset: 0, 0
+  index: -1
+blmtjl_tou
+  rotate: false
+  xy: 313, 114
+  size: 169, 170
+  orig: 171, 172
+  offset: 1, 1
+  index: -1
+blmtjl_yj01
+  rotate: false
+  xy: 88, 4
+  size: 95, 68
+  orig: 95, 68
+  offset: 0, 0
+  index: -1
+blmtjl_yj02
+  rotate: false
+  xy: 736, 248
+  size: 73, 36
+  orig: 75, 38
+  offset: 1, 1
+  index: -1
+blmtjl_yj03
+  rotate: true
+  xy: 185, 2
+  size: 78, 106
+  orig: 81, 108
+  offset: 2, 1
+  index: -1
+blmtjl_ys01
+  rotate: true
+  xy: 2, 2
+  size: 70, 84
+  orig: 72, 87
+  offset: 1, 1
+  index: -1
+blmtjl_ys02
+  rotate: false
+  xy: 401, 11
+  size: 82, 101
+  orig: 84, 103
+  offset: 1, 1
+  index: -1
+blmtjl_ys03
+  rotate: true
+  xy: 739, 64
+  size: 57, 62
+  orig: 59, 64
+  offset: 1, 1
+  index: -1
+blmtjl_zj01
+  rotate: false
+  xy: 565, 27
+  size: 87, 91
+  orig: 89, 93
+  offset: 1, 1
+  index: -1
+blmtjl_zj02
+  rotate: false
+  xy: 736, 210
+  size: 73, 36
+  orig: 75, 38
+  offset: 1, 1
+  index: -1
+blmtjl_zj03
+  rotate: true
+  xy: 293, 2
+  size: 78, 106
+  orig: 81, 108
+  offset: 2, 1
+  index: -1
+blmtjl_zs01
+  rotate: false
+  xy: 739, 123
+  size: 63, 85
+  orig: 66, 87
+  offset: 1, 1
+  index: -1
+blmtjl_zs02
+  rotate: false
+  xy: 485, 18
+  size: 78, 100
+  orig: 80, 102
+  offset: 1, 1
+  index: -1
+blmtjl_zs03
+  rotate: false
+  xy: 739, 5
+  size: 46, 57
+  orig: 48, 59
+  offset: 1, 1
+  index: -1
+laba
+  rotate: true
+  xy: 586, 125
+  size: 159, 148
+  orig: 159, 148
+  offset: 0, 0
+  index: -1
+yin
+  rotate: false
+  xy: 654, 3
+  size: 83, 120
+  orig: 83, 120
+  offset: 0, 0
+  index: -1

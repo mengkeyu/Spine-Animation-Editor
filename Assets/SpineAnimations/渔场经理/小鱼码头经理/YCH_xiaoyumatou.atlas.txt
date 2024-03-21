@@ -1,0 +1,125 @@
+
+YCH_xiaoyumatou.png
+size: 304,549
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+laba
+  rotate: true
+  xy: 2, 388
+  size: 159, 148
+  orig: 159, 148
+  offset: 0, 0
+  index: -1
+xxysjl_st01
+  rotate: false
+  xy: 2, 197
+  size: 146, 189
+  orig: 146, 189
+  offset: 0, 0
+  index: -1
+xxysjl_st02
+  rotate: true
+  xy: 217, 316
+  size: 109, 83
+  orig: 109, 83
+  offset: 0, 0
+  index: -1
+xxysjl_yj01
+  rotate: true
+  xy: 166, 20
+  size: 62, 75
+  orig: 62, 75
+  offset: 0, 0
+  index: -1
+xxysjl_yj02
+  rotate: false
+  xy: 243, 3
+  size: 57, 79
+  orig: 59, 82
+  offset: 1, 1
+  index: -1
+xxysjl_yj03
+  rotate: false
+  xy: 150, 197
+  size: 79, 65
+  orig: 81, 68
+  offset: 1, 2
+  index: -1
+xxysjl_ys01
+  rotate: true
+  xy: 75, 2
+  size: 46, 50
+  orig: 48, 52
+  offset: 1, 1
+  index: -1
+xxysjl_ys02
+  rotate: true
+  xy: 2, 2
+  size: 46, 71
+  orig: 48, 73
+  offset: 1, 1
+  index: -1
+xxysjl_ys03
+  rotate: false
+  xy: 166, 84
+  size: 69, 111
+  orig: 71, 113
+  offset: 1, 1
+  index: -1
+xxysjl_zj01
+  rotate: true
+  xy: 231, 209
+  size: 54, 71
+  orig: 56, 73
+  offset: 1, 1
+  index: -1
+xxysjl_zj02
+  rotate: true
+  xy: 237, 468
+  size: 79, 65
+  orig: 81, 68
+  offset: 1, 2
+  index: -1
+xxysjl_zj03
+  rotate: false
+  xy: 237, 127
+  size: 58, 80
+  orig: 60, 82
+  offset: 1, 1
+  index: -1
+xxysjl_zs01
+  rotate: true
+  xy: 237, 84
+  size: 41, 50
+  orig: 43, 52
+  offset: 1, 1
+  index: -1
+xxysjl_zs02
+  rotate: true
+  xy: 217, 265
+  size: 49, 73
+  orig: 51, 75
+  offset: 1, 1
+  index: -1
+xxysjl_zs03
+  rotate: false
+  xy: 150, 264
+  size: 65, 122
+  orig: 68, 124
+  offset: 2, 1
+  index: -1
+xymtjl_tou
+  rotate: true
+  xy: 2, 50
+  size: 145, 162
+  orig: 149, 164
+  offset: 1, 1
+  index: -1
+yin
+  rotate: false
+  xy: 152, 427
+  size: 83, 120
+  orig: 83, 120
+  offset: 0, 0
+  index: -1

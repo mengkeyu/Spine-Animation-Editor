@@ -1,0 +1,90 @@
+
+YCH_xiaxieyangzhi.png
+size: 896,204
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+laba
+  rotate: true
+  xy: 505, 43
+  size: 159, 148
+  orig: 159, 148
+  offset: 0, 0
+  index: -1
+xxyzjl_st01
+  rotate: true
+  xy: 2, 2
+  size: 200, 186
+  orig: 200, 186
+  offset: 0, 0
+  index: -1
+xxyzjl_tou
+  rotate: true
+  xy: 190, 12
+  size: 190, 313
+  orig: 190, 313
+  offset: 0, 0
+  index: -1
+xxyzjl_yj01
+  rotate: false
+  xy: 505, 6
+  size: 77, 35
+  orig: 80, 37
+  offset: 2, 1
+  index: -1
+xxyzjl_yj02
+  rotate: false
+  xy: 844, 40
+  size: 50, 65
+  orig: 52, 67
+  offset: 1, 1
+  index: -1
+xxyzjl_zj02
+  rotate: false
+  xy: 844, 40
+  size: 50, 65
+  orig: 52, 67
+  offset: 1, 1
+  index: -1
+xxyzjl_ys01
+  rotate: false
+  xy: 812, 107
+  size: 73, 95
+  orig: 75, 97
+  offset: 1, 1
+  index: -1
+xxyzjl_ys02
+  rotate: true
+  xy: 659, 7
+  size: 73, 113
+  orig: 75, 115
+  offset: 1, 1
+  index: -1
+xxyzjl_zj01
+  rotate: false
+  xy: 584, 6
+  size: 73, 35
+  orig: 76, 37
+  offset: 2, 1
+  index: -1
+xxyzjl_zs01
+  rotate: false
+  xy: 774, 2
+  size: 68, 89
+  orig: 70, 91
+  offset: 1, 1
+  index: -1
+xxyzjl_zs02
+  rotate: false
+  xy: 740, 93
+  size: 70, 109
+  orig: 73, 111
+  offset: 2, 1
+  index: -1
+yin
+  rotate: false
+  xy: 655, 82
+  size: 83, 120
+  orig: 83, 120
+  offset: 0, 0
+  index: -1

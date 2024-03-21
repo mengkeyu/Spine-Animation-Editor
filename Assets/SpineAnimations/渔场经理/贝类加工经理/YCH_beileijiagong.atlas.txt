@@ -1,0 +1,104 @@
+
+YCH_beileijiagong.png
+size: 449,281
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bljgjl_ys01
+  rotate: true
+  xy: 298, 2
+  size: 44, 39
+  orig: 46, 42
+  offset: 1, 2
+  index: -1
+laba
+  rotate: true
+  xy: 265, 120
+  size: 159, 148
+  orig: 159, 148
+  offset: 0, 0
+  index: -1
+xxjgjl_st01
+  rotate: false
+  xy: 166, 102
+  size: 97, 177
+  orig: 97, 177
+  offset: 0, 0
+  index: -1
+xxjgjl_tou
+  rotate: true
+  xy: 2, 88
+  size: 191, 162
+  orig: 193, 173
+  offset: 1, 1
+  index: -1
+xxjgjl_yj01
+  rotate: false
+  xy: 167, 2
+  size: 61, 98
+  orig: 63, 100
+  offset: 1, 1
+  index: -1
+xxjgjl_yj02
+  rotate: false
+  xy: 298, 48
+  size: 44, 70
+  orig: 46, 73
+  offset: 1, 1
+  index: -1
+xxjgjl_ys02
+  rotate: false
+  xy: 124, 11
+  size: 41, 75
+  orig: 43, 77
+  offset: 1, 1
+  index: -1
+xxjgjl_ys03
+  rotate: true
+  xy: 381, 7
+  size: 41, 61
+  orig: 44, 64
+  offset: 1, 2
+  index: -1
+xxjgjl_zj01
+  rotate: false
+  xy: 230, 3
+  size: 66, 97
+  orig: 68, 99
+  offset: 1, 1
+  index: -1
+xxjgjl_zj02
+  rotate: false
+  xy: 344, 50
+  size: 41, 68
+  orig: 44, 70
+  offset: 1, 1
+  index: -1
+xxjgjl_zs01
+  rotate: false
+  xy: 387, 61
+  size: 41, 57
+  orig: 43, 59
+  offset: 1, 1
+  index: -1
+xxjgjl_zs02
+  rotate: false
+  xy: 415, 222
+  size: 32, 57
+  orig: 34, 59
+  offset: 1, 1
+  index: -1
+xxjgjl_zs03
+  rotate: false
+  xy: 339, 3
+  size: 40, 43
+  orig: 42, 45
+  offset: 1, 1
+  index: -1
+yin
+  rotate: true
+  xy: 2, 3
+  size: 83, 120
+  orig: 83, 120
+  offset: 0, 0
+  index: -1

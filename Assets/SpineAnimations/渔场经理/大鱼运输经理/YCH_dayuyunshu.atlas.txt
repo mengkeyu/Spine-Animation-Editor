@@ -1,0 +1,132 @@
+
+YCH_dayuyunshu.png
+size: 283,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dyysjl_st01
+  rotate: false
+  xy: 2, 162
+  size: 97, 65
+  orig: 97, 65
+  offset: 0, 0
+  index: -1
+dyysjl_st02
+  rotate: false
+  xy: 163, 340
+  size: 114, 170
+  orig: 115, 170
+  offset: 0, 0
+  index: -1
+dyysjl_tou
+  rotate: false
+  xy: 2, 229
+  size: 131, 131
+  orig: 137, 133
+  offset: 1, 1
+  index: -1
+dyysjl_toufa
+  rotate: true
+  xy: 135, 165
+  size: 88, 97
+  orig: 88, 98
+  offset: 0, 0
+  index: -1
+dyysjl_yj01
+  rotate: true
+  xy: 2, 92
+  size: 68, 81
+  orig: 70, 83
+  offset: 1, 1
+  index: -1
+dyysjl_yj02
+  rotate: false
+  xy: 85, 71
+  size: 48, 85
+  orig: 50, 88
+  offset: 1, 1
+  index: -1
+dyysjl_yj03
+  rotate: false
+  xy: 222, 14
+  size: 53, 74
+  orig: 56, 81
+  offset: 2, 0
+  index: -1
+dyysjl_ys01
+  rotate: true
+  xy: 122, 8
+  size: 34, 43
+  orig: 37, 45
+  offset: 2, 1
+  index: -1
+dyysjl_ys02
+  rotate: false
+  xy: 101, 158
+  size: 32, 69
+  orig: 34, 72
+  offset: 1, 1
+  index: -1
+dyysjl_ys03
+  rotate: false
+  xy: 234, 173
+  size: 47, 80
+  orig: 49, 82
+  offset: 1, 1
+  index: -1
+dyysjl_zj01
+  rotate: true
+  xy: 135, 95
+  size: 68, 81
+  orig: 70, 83
+  offset: 1, 1
+  index: -1
+dyysjl_zj02
+  rotate: false
+  xy: 234, 90
+  size: 46, 81
+  orig: 48, 83
+  offset: 1, 1
+  index: -1
+dyysjl_zj03
+  rotate: true
+  xy: 135, 44
+  size: 49, 85
+  orig: 55, 87
+  offset: 5, 1
+  index: -1
+dyysjl_zs01
+  rotate: true
+  xy: 167, 8
+  size: 34, 40
+  orig: 36, 42
+  offset: 1, 1
+  index: -1
+dyysjl_zs02
+  rotate: true
+  xy: 55, 32
+  size: 37, 65
+  orig: 39, 67
+  offset: 1, 1
+  index: -1
+dyysjl_zs03
+  rotate: false
+  xy: 2, 2
+  size: 51, 88
+  orig: 53, 90
+  offset: 1, 1
+  index: -1
+laba
+  rotate: false
+  xy: 2, 362
+  size: 159, 148
+  orig: 159, 148
+  offset: 0, 0
+  index: -1
+yin
+  rotate: true
+  xy: 135, 255
+  size: 83, 120
+  orig: 83, 120
+  offset: 0, 0
+  index: -1
